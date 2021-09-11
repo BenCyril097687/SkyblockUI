@@ -1,0 +1,11 @@
+---
+name: SkyblockUI
+main: Ben\SbUI\Main
+version: 1.0.0
+api: 3.0.0
+author: BenCyril
+
+commands:
+  is:
+    description: Mở Giao Diện Skyblock
+...
