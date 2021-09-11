@@ -1,5 +1,5 @@
 # SkyblockUI
 SkyblockUI for Pocketmine-MP   
-This Plugin Supports Skyblock Plugin UI Interface   
+This Plugin Support UI Interface For Skyblock Plugin   
 Link Plugin Skyblock:
 https://github.com/BenCyril097687/Skyblock
